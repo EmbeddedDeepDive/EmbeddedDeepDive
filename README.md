@@ -151,7 +151,7 @@ Here, you'll find a selection of our best projects that embody our love for tech
 
 We're always eager to connect with fellow tech enthusiasts. Whether you're looking for advice, collaboration, or just want to share your thoughts, feel free to reach out to us.
 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/embeddeddeepdive)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/embeddeddeepd)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCQiVcDpQaBsZ0WXm0lOa2gQ)
 [![Website](https://img.shields.io/badge/Website-embeddeddeepdive-1abc9c?style=for-the-badge&logo=web)](https://www.embeddeddeepdive.com)
 
@@ -173,7 +173,7 @@ Thank you for visiting our GitHub profile. Have a fantastic day!
 
 
 [website]: https://embeddeddeepdive.com
-[twitter]: https://twitter.com/embeddeddeepdive
+[twitter]: https://twitter.com/embeddeddeepd
 [youtube-channel]: https://youtube.com/@HassaanS16
 [linkedin]: https://linkedin.com/in/your_linkedin_profile
 [matlab-and-simulink]: https://www.youtube.com/playlist?list=PLeDkamI5Ny0Qs6ICiMB0hFxjG_cy-I16i
