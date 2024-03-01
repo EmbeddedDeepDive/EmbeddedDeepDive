@@ -6,7 +6,7 @@ Hello there! I'm thrilled to have you here. My passion lies in unraveling the co
 
 I'm deeply passionate about a wide range of technologies and constantly explore new technological trends, especially Embedded Systems. Here's what I currently love working with:
 
-| Category                    | Technologies/Platforms                                                                   |
+| **Category**                    | **Technologies/Platforms**                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------        |
 | **Programming Languages**   | C/C++, C#, Python, MATLAB, Verilog, VHDL                                                 |
 | **Platforms & Microcontrollers** | STM32, ESP32, TI, Nordic, AVR, PIC, Arduino                                         |
