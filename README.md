@@ -1,6 +1,6 @@
 # Welcome to Embedded DeepDive's GitHub! 🚀
 
-Welcome to 𝗘𝗺𝗯𝗲𝗱𝗱𝗲𝗱 𝗗𝗲𝗲𝗽𝗗𝗶𝘃𝗲, your go-to resource for exploring the depths of embedded systems, computer science, and engineering. Our mission is to empower makers, hobbyists, enthusiasts, and engineers by sharing in-depth videos, articles, and tutorials that focus on learning, innovation, and creativity.
+Welcome to 𝗘𝗺𝗯𝗲𝗱𝗱𝗲𝗱 𝗗𝗲𝗲𝗽𝗗𝗶𝘃𝗲, your go-to destination for exploring the world of embedded systems, computer science, and engineering. We specialize in driving innovation through embedded systems, IoT, and FPGA/SOC development, delivering cutting-edge solutions, expert technical services, and empowering the tech community with hands-on tutorials and practical guides.
 
 ### 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝘁𝗶𝗲𝘀:
 - Embedded Systems Design and Development
